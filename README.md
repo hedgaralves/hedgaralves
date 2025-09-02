@@ -33,7 +33,6 @@ Com um background em desenvolvimento, tenho uma visão completa do ciclo de vida
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hedgaralves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="hedgaralves's github stats"/>
   <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedgaralves&layout=compact&langs_count=7&theme=dracula" alt="hedgaralves's top languages"/>
 </p>
