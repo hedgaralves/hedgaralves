@@ -11,7 +11,7 @@ Com um background em desenvolvimento, tenho uma visão completa do ciclo de vida
 
 💬 Pergunte-me sobre: Docker, Kubernetes, CI/CD, Terraform, AWS, GCP e automação de processos.
 
-📫 Como me encontrar: hedgar.alves@gmail.com ou pelo LinkedIn.
+📫 Como me encontrar: hed.consultor@hotmail.com ou pelo [LinkedIn.](https://www.linkedin.com/in/hedgaralves/).
 
 ### 🚀 Minhas Habilidades
 
