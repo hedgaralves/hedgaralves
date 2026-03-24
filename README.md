@@ -2,11 +2,17 @@
 Profissional DevOps focado em otimizar o ciclo de vida de desenvolvimento de software, garantindo entregas mais rápidas, eficientes e seguras. Com um background sólido em desenvolvimento, possuo uma visão ponta a ponta: desde a concepção do código até a sua sustentação em produção. Minha verdadeira paixão é automatizar processos para construir infraestruturas resilientes, escaláveis e altamente seguras.
 
 🎓 Especializações: Possuo especializações formais em Arquitetura e Projetos em Cloud e em Segurança da Informação.
+
 🔭 Atualmente: Aprimorando minhas habilidades em arquiteturas robustas, FinOps e práticas avançadas de DevSecOps.
+
 🌱 Aprendizado contínuo: Foco especial em Kubernetes, Service Mesh (Istio) e GitOps (ArgoCD).
+
 👯 Comunidade: Procuro colaborar em projetos open-source que envolvam automação de infraestrutura e ferramentas de CI/CD.
+
 💬 Pergunte-me sobre: Docker, Kubernetes, CI/CD, Terraform, AWS, OCI, GCP e automação de processos.
+
 ⚡ Sua frase: Acredito que a cultura DevOps vai muito além de ferramentas, é sobre colaboração e empatia!
+
 
 🛠️ Minhas Habilidades
 Cloud & Containers
