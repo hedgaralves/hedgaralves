@@ -1,15 +1,37 @@
-Olá, eu sou o Hedgar Alves 👋
-Profissional DevOps focado em otimizar o ciclo de vida de desenvolvimento de software, garantindo entregas mais rápidas e seguras.
+👨‍💻 Sobre mim
+Profissional DevOps focado em otimizar o ciclo de vida de desenvolvimento de software, garantindo entregas mais rápidas, eficientes e seguras. Com um background sólido em desenvolvimento, possuo uma visão ponta a ponta: desde a concepção do código até a sua sustentação em produção. Minha verdadeira paixão é automatizar processos para construir infraestruturas resilientes, escaláveis e altamente seguras.
 
-Com um background em desenvolvimento, tenho uma visão completa do ciclo de vida de uma aplicação, desde a concepção do código até a sua sustentação em produção. Minha paixão é automatizar processos para construir infraestruturas resilientes, escaláveis e seguras.
+🎓 Especializações: Possuo especializações formais em Arquitetura e Projetos em Cloud e em Segurança da Informação.
+🔭 Atualmente: Aprimorando minhas habilidades em arquiteturas robustas, FinOps e práticas avançadas de DevSecOps.
+🌱 Aprendizado contínuo: Foco especial em Kubernetes, Service Mesh (Istio) e GitOps (ArgoCD).
+👯 Comunidade: Procuro colaborar em projetos open-source que envolvam automação de infraestrutura e ferramentas de CI/CD.
+💬 Pergunte-me sobre: Docker, Kubernetes, CI/CD, Terraform, AWS, OCI, GCP e automação de processos.
+⚡ Sua frase: Acredito que a cultura DevOps vai muito além de ferramentas, é sobre colaboração e empatia!
 
-🔭 Atualmente estou aprimorando minhas habilidades em Arquitetura de Soluções Cloud e FinOps.
+🛠️ Minhas Habilidades
+Cloud & Containers
 
-🌱 Estou sempre aprendendo sobre novas tecnologias, com foco em Kubernetes, Service Mesh (Istio) e GitOps (ArgoCD).
 
-👯 Procuro colaborar em projetos open-source que envolvam automação de infraestrutura e ferramentas de CI/CD.
 
-💬 Pergunte-me sobre: Docker, Kubernetes, CI/CD, Terraform, AWS, GCP e automação de processos.
+Infraestrutura como Código (IaC) & Automação
+
+
+
+Segurança (DevSecOps)
+
+
+
+CI/CD & Observabilidade
+
+
+
+Linguagens de Programação
+
+
+
+📊 Linguagens mais utilizadas
+Linguagens mais usadas
+
 
 📫 Como me encontrar: hed.consultor@hotmail.com ou pelo [LinkedIn.](https://www.linkedin.com/in/hedgaralves/).
 
