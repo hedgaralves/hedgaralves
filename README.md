@@ -10,7 +10,6 @@ Profissional **DevOps** focado em otimizar o ciclo de vida de desenvolvimento de
 - 🌱 **Aprendizado contínuo:** Foco especial em **Kubernetes, Service Mesh (Istio) e GitOps (ArgoCD)**.
 - 👯 **Comunidade:** Procuro colaborar em projetos open-source que envolvam automação de infraestrutura e ferramentas de CI/CD.
 - 💬 **Pergunte-me sobre:** Docker, Kubernetes, CI/CD, Terraform, AWS, OCI, GCP e automação de processos.
-- ⚡ **Sua frase:** Acredito que a cultura DevOps vai muito além de ferramentas, é sobre colaboração e empatia!
 
 <br/>
 
