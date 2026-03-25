@@ -61,17 +61,4 @@ Profissional **DevOps** focado em otimizar o ciclo de vida de desenvolvimento de
 
 <br/>
 
----
-
-<div align="center">
-  <em>Visitas ao perfil</em><br/>
-  <img src="https://profile-counter.glitch.me/hedgaralves/count.svg" />
-</div>
-
-
-<br/>
-
-  <em>Visitas ao perfil</em><br/>
-  <img src="https://profile-counter.glitch.me/hedgaralves/count.svg" />
-</div>
 
